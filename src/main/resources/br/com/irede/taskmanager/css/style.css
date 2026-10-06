@@ -1,0 +1,56 @@
+.root {
+    -fx-font-family: "Segoe UI", Arial, sans-serif;
+    -fx-background-color: #f5f7fb;
+    -fx-font-size: 14px;
+}
+
+.cabecalho {
+    -fx-background-color: #243b67;
+}
+
+.titulo {
+    -fx-font-size: 26px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+
+.subtitulo {
+    -fx-text-fill: #dce6f8;
+}
+
+.titulo-formulario {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #243b67;
+}
+
+.table-view {
+    -fx-background-color: white;
+    -fx-border-color: #dbe1ea;
+    -fx-border-radius: 5px;
+}
+
+.button {
+    -fx-cursor: hand;
+    -fx-padding: 8px 14px;
+    -fx-background-radius: 5px;
+}
+
+.botao-primario {
+    -fx-background-color: #3267c8;
+    -fx-text-fill: white;
+}
+
+.botao-perigo {
+    -fx-background-color: #b83a47;
+    -fx-text-fill: white;
+}
+
+.formulario {
+    -fx-background-color: #f5f7fb;
+}
+
+.mensagem-erro {
+    -fx-text-fill: #b42318;
+}
+
